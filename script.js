@@ -19,5 +19,4 @@ document.getElementById("jobForm").addEventListener("submit", function (e) {
   }
 
   error.textContent = "Form submitted successfully!";
-  // You can send data to backend here using fetch()
 });
